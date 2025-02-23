@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Michael Vincenzo Petrone
 - 👀 I’m interested in Java, Typescript, Python
 - 🌱 I’m currently learning Typescript and Database management systems
-- ⚡ Fun fact: I know PI to 50 digits
+- ⚡ Fun fact: I know PI to 100 digits
